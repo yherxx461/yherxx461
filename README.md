@@ -7,14 +7,12 @@
 
 ## Connect with me:
 
-<br></br>
 [![Linkedin](icons8-linkedin-48.png)][1]
 
 [1]: https://www.linkedin.com/in/herxx461/
 
 ## Languages and Tools:
 
-<br></br>
 ![Vue](icons8-vue-js-48.png)![Redux](icons8-redux-48.png) ![React](icons8-react-native-48.png) ![JS](icons8-javascript-48.png) ![Node](icons8-node-js-48.png) ![Express](icons8-express-js-48.png) ![Postman](download-icon-api+postman-1330884264094862676_48.png)![Postgresql](postgresql.png)
 
 <!---
