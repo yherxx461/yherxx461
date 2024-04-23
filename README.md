@@ -6,7 +6,7 @@
 
 Connect with me: 
 <br></b>
-![icons8-linkedin-48](https://github.com/yherxx461/yherxx461/assets/138348609/9f99b495-f309-48d8-a9c3-3093ee4d92b7)
+[![Linkedin](https://github.com/yherxx461/yherxx461/assets/138348609/9f99b495-f309-48d8-a9c3-3093ee4d92b7)]
 [1]
 
 [1]: https://www.linkedin.com/in/herxx461/
