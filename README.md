@@ -4,7 +4,10 @@
 - 📫 How to reach me [yher.prime@gmail.com](yher.prime@gmail.com)
 - ⚡ Fun fact: I am a slow eater, but I'm always the first to finish my drinks and beverages faster than my peers.
 
-Connect with me: 
+Connect with me:
+[![Linkedin](icons8-linkedin-48.png)][1]
+
+[1]: (https://www.linkedin.com/in/herxx461/)
 
 <!---
 yherxx461/yherxx461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
