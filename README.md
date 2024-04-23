@@ -15,7 +15,7 @@
 ## Languages and Tools:
 
 <br></br>
-![Vue](icons8-vue-js-48.png)![Redux](icons8-redux-48.png) ![React](icons8-react-native-48.png) ![JS](icons8-javascript-48.png) ![Node](icons8-node-js-48.png) ![Express](icons8-express-js-48.png) ![Postgresql](postgresql.248x256.png)![Postman](postman.248x256.png)
+![Vue](icons8-vue-js-48.png)![Redux](icons8-redux-48.png) ![React](icons8-react-native-48.png) ![JS](icons8-javascript-48.png) ![Node](icons8-node-js-48.png) ![Express](icons8-express-js-48.png) ![Postman](download-icon-api+postman-1330884264094862676_48.png)![Postgresql](postgresql.png)
 
 <!---
 yherxx461/yherxx461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
