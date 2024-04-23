@@ -7,7 +7,7 @@
 Connect with me:
 [![Linkedin](icons8-linkedin-48.png)][1]
 
-[1]: (https://www.linkedin.com/in/herxx461/)
+[1]: https://www.linkedin.com/in/herxx461/
 
 <!---
 yherxx461/yherxx461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
