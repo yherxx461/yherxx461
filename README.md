@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I am a slow eater, but I'm always the first to finish my drinks and beverages faster than my peers.
 
 Connect with me: 
-![image](https://www.linkedin.com/in/herxx461/)
+
 <!---
 yherxx461/yherxx461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
