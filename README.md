@@ -13,7 +13,17 @@
 
 ## Languages and Tools:
 
-![Vue](icons8-vue-js-48.png)![Redux](icons8-redux-48.png) ![React](icons8-react-native-48.png) ![JS](icons8-javascript-48.png) ![Node](icons8-node-js-48.png) ![Express](icons8-express-js-48-1.png)![Postman](download-icon-api+postman-1330884264094862676_48.png)![Postgresql](postgresql.png)
+[![Vue](icons8-vue-js-48.png)][2][![Redux](icons8-redux-48.png)][3] [![React](icons8-react-native-48.png)][4] [![JS](icons8-javascript-48.png)][5] [![Node](icons8-node-js-48.png)][6] [![Express](icons8-express-js-48-1.png)][7] [![Postman](download-icon-api+postman-1330884264094862676_48.png)][8] [![Postgresql](postgresql.png)][9] [![Material UI](icons8-material-ui-48.png)][10]
+
+[2]: https://vuejs.org/
+[3]: https://redux.js.org/
+[4]: https://react.dev/
+[5]: https://www.javascript.com/
+[6]: https://nodejs.org/en
+[7]: https://expressjs.com/
+[8]: https://www.postman.com/
+[9]: https://www.postgresql.org/
+[10]: https://mui.com/material-ui/
 
 <!---
 yherxx461/yherxx461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
