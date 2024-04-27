@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ying!
 
-- 🚧 I am currently working on [Darling Moon Shop](https://github.com/yherxx461/darling-moon-shop)
+- 🚧 I am currently working on [Darling Moon Shop](https://github.com/yherxx461/darling-moon-shop) and [Bunnycup Winery](https://github.com/nateglewwe/bunnycup-winery-client-portal)
 - 💼 You can find all of my projects at [https://github.com/yherxx461](https://github.com/yherxx461?tab=repositories)
 - 📫 How to reach me [yher.prime@gmail.com](yher.prime@gmail.com)
 - ⚡ Fun fact: I am a slow eater, but I'm always the first to finish my drinks and beverages faster than my peers.
